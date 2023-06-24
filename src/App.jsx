@@ -1,7 +1,7 @@
 import { Route, Routes } from "react-router-dom";
 import "./App.css";
-import { Home } from "./assets/page/Home";
-import { CommentPage } from "./assets/Component/Single";
+import { Home } from "./folderrenamed/page/Home";
+import { CommentPage } from "./folderrenamed/Component/Single";
 
 function App() {
   return (
